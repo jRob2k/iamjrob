@@ -1,3 +1,4 @@
-baseURL: http://example.org/
+baseURL: http://www.iamjrob.xyz/
 languageCode: en-us
-title: My New Hugo Site
+title: "I am jRob"
+theme: "PaperMod"
